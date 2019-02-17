@@ -2,7 +2,7 @@
   "name": "shoppinglist",
   "version": "1.0.0",
   "description": "Eletctron Test",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
